@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\jamst\Documents\react-spring-mysql-practice\board-spring\src\main\java\com\kwak\board\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
